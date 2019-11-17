@@ -8,3 +8,6 @@ The dataset was not cleaned or pre-processed.
 2.Diabetes-Outcome prediction:(Tabular data)
 
 Dataset source: Kaggle 
+
+3.Tamil_nlp:(Text prediction)
+Dataset source: Kaggle
