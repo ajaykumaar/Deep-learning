@@ -12,3 +12,7 @@ Dataset source: Kaggle
 3.Tamil_nlp:(Text prediction)
 
 Dataset source: Kaggle
+
+4.Chest_xray(disease prediction):(Image classification)
+
+Dataset source: Kaggle
