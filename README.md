@@ -16,3 +16,8 @@ Dataset source: Kaggle
 4.Chest_xray(disease prediction):(Image classification)
 
 Dataset source: Kaggle
+
+5.Titanic(Tabular categorical classification)
+A comparison on training the model using XGBoost, manually tunning the hyper-parameters and tunning using Bayesian Optimization.
+
+Datasource: Kaggle
