@@ -18,6 +18,7 @@ Dataset source: Kaggle
 Dataset source: Kaggle
 
 5.Titanic(Tabular categorical classification)
-A comparison on training the model using XGBoost, manually tunning the hyper-parameters and tunning using Bayesian Optimization.
+
+A comparison of the accuracy in training the model using XGBoost, manually tunning the hyper-parameters and tunning using Bayesian Optimization.
 
 Datasource: Kaggle
