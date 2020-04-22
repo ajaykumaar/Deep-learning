@@ -23,7 +23,7 @@ A comparison of the accuracy in training the model using XGBoost, manually tunni
 
 Datasource: Kaggle
 
-6.Plot_covid_India(Data visualization) 
+6.Plot_India_Covid(Data visualization) 
 
 Visualizing the data of Covid-19 spread in India using Fastai2, Seaborn and GeoPandas.
 
