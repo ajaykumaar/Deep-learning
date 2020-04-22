@@ -22,3 +22,9 @@ Dataset source: Kaggle
 A comparison of the accuracy in training the model using XGBoost, manually tunning the hyper-parameters and tunning using Bayesian Optimization.
 
 Datasource: Kaggle
+
+6.Plot_covid_India(Data visualization) 
+
+Visualizing the data of Covid-19 spread in India using Fastai2, Seaborn and GeoPandas.
+
+Datasource: Kaggle
