@@ -27,4 +27,6 @@ Datasource: Kaggle
 
 Visualizing the data of Covid-19 spread in India using Fastai2, Seaborn and GeoPandas.
 
+Medium Blog: https://medium.com/@ajaykumaar.ak/diy-data-analysis-of-covid-19-da6cd0c99cd8
+
 Datasource: Kaggle
