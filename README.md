@@ -27,13 +27,15 @@ Datasource: Kaggle
 
 Visualizing the data of Covid-19 spread in India using Fastai2, Seaborn and GeoPandas.
 
-Medium Blog: https://medium.com/analytics-vidhya/diy-data-analysis-of-covid-19-da6cd0c99cd8
+Medium link: https://medium.com/analytics-vidhya/diy-data-analysis-of-covid-19-da6cd0c99cd8
 
 Datasource: Kaggle
 
 7.covid_curve_fit (polynomial regression)
 
 Fitting the polynomial curve and predicicting the fall of covid19.
+
+Medium link: https://medium.com/analytics-vidhya/predicting-the-fall-of-covid-19-curve-with-math-aabd4b21615
 
 Datasource: Plot_India_Covid notebook
 
