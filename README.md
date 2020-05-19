@@ -31,7 +31,7 @@ Medium Blog: https://medium.com/analytics-vidhya/diy-data-analysis-of-covid-19-d
 
 Datasource: Kaggle
 
-7. covid_curve_fit (polynomial regression)
+7.covid_curve_fit (polynomial regression)
 
 Fitting the polynomial curve and predicicting the fall of covid19.
 
