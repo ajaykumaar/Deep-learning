@@ -31,4 +31,14 @@ Medium Blog: https://medium.com/analytics-vidhya/diy-data-analysis-of-covid-19-d
 
 Datasource: Kaggle
 
-7.
+7. covid_curve_fit (polynomial regression)
+
+Fitting the polynomial curve and predicicting the fall of covid19.
+
+Datasource: Plot_India_Covid notebook
+
+8.Meow_Bark (Audio classification)
+
+Classifying cat and dog sounds using Spectrogram and MFCC(Mel Frequency Cepstral Co-effecient) 
+
+Datasource: Kaggle 
