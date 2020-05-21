@@ -44,3 +44,9 @@ Datasource: Plot_India_Covid notebook
 Classifying cat and dog sounds using Spectrogram and MFCC(Mel Frequency Cepstral Co-effecient) 
 
 Datasource: Kaggle 
+
+9.face_age (Scalar regression) 
+
+Predicting the age of a person based on face images and employing the latest architecture, activation function and optimizer.
+
+Datasource: Kaggle
