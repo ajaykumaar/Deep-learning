@@ -49,4 +49,6 @@ Datasource: Kaggle
 
 Predicting the age of a person based on face images and employing the latest architecture, activation function and optimizer.
 
+Medium link: https://medium.com/analytics-vidhya/facial-age-prediction-with-fastai2-d67fdb575539
+
 Datasource: Kaggle
